@@ -1,0 +1,6 @@
+/build/*
+!/build/log.conf
+/.vscode/
+test.cpp
+test
+/temp/
